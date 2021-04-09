@@ -5,7 +5,7 @@
 # 环境
 <ul>
 <li>JDK 1.8</li>
-<li>Eclipse 2020</li>
+<li>IntelliJ Idea 2020</li>
 <li>Tomcat 8.0</li>
 <li>MySQL 5.5.15
 </ul>
